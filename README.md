@@ -1,5 +1,4 @@
 # Hind.com
-the search engine of India
-search anything like google 
+This is India's first Indegeneous Search Engine where you can search and can get exactly same result.
 link:
-https://hind.xmshind.repl.co
+https://hind-com.vercel.app/
